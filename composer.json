@@ -1,0 +1,13 @@
+{
+    "name": "fangx/laravel-enum",
+    "description": "php enum generator for laravel",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "nfangxu",
+            "email": "nfangxu@gmail.com"
+        }
+    ],
+    "require": {}
+}
